@@ -1,0 +1,6 @@
+1. esp32 DevKit v4
+2. Protoboard (tamaño medio)
+3. Sensor PIR
+4. Servo motor
+5. LED rojo
+6. Resistencia de 220 Ω
