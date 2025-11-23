@@ -13,6 +13,9 @@ Pequeño sistema que dispensa alimento automáticamente usando
 ## Lista de Materiales
 Ver archivo en `bom/`.
 
+## Diagrama y conexiones
+diagrama en `docs/`.
+
 ## Código
 Código fuente en `firmware/`.
 
